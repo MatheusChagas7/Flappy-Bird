@@ -1,2 +1,2 @@
-# Flappy-Bird feito em javascript
+# Flappy-Bird
 
